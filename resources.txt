@@ -1,0 +1,1 @@
+check the core concept of how logs are taken
