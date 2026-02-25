@@ -1,2 +1,3 @@
 check the core concept of how logs are taken
 need updates in the code and sample exe file
+check in for the day
