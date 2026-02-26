@@ -38,16 +38,16 @@ int main() {
     // Simulating program execution
     Logger::Log(INFO, "Application started successfully.");
     
-    int diskSpace = 15; // percent
+    int diskSpace = 25; // percent
     if (diskSpace < 20) {
         Logger::Log(WARNING, "Low disk space detected: 15%.");
     }
 
-    try {
-        throw std::runtime_error("Database connection failed.");
-    } catch (const std::exception& e) {
-        Logger::Log(ERROR, e.what());
-    }
+    // try {
+    //     throw std::runtime_error("Database connection failed.");
+    // } catch (const std::exception& e) {
+    //     Logger::Log(ERROR, e.what());
+    // }
 
     return 0;
 }
