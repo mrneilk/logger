@@ -1,3 +1,8 @@
 check the core concept of how logs are taken
 need updates in the code and sample exe file
 check in for the day
+
+--
+The code shows errors while compiling in VS Code same as the loadbalancer project code
+Need to check the compiler files and other target files to remove the error
+Debugging is not happening
