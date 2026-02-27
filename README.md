@@ -2,6 +2,9 @@
 
 Logging is the "black box" recorder of the software world. It provides a persistent record of events that occur within a system, allowing developers and administrators to look back in time.
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/cfac76be-f7de-424a-807e-f7086e2b1e80" />
+
+
 ---
 
 ## 🏛 Why We Log: The Four Pillars
