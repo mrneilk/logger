@@ -36,5 +36,11 @@ Logging isn't just about errors; it’s about health. By logging how long certai
 In many industries (like finance or healthcare), logging is a legal requirement. You must be able to prove who touched sensitive data and when to remain compliant with data protection laws.
 
 ---
+---
+
+### 5. Output
+
+<img width="633" height="25" alt="image" src="https://github.com/user-attachments/assets/2a1226c1-d8c8-4539-b3e5-0a4b472e4cca" />
+---
 
 *This project demonstrates these concepts through a simple application implementation.*
