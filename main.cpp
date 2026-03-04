@@ -43,11 +43,11 @@ int main() {
         Logger::Log(WARNING, "Low disk space detected: 15%.");
     }
 
-    // try {
-    //     throw std::runtime_error("Database connection failed.");
-    // } catch (const std::exception& e) {
-    //     Logger::Log(ERROR, e.what());
-    // }
+    try {
+        throw std::runtime_error("Database connection failed.");
+    } catch (const std::exception& e) {
+        Logger::Log(ERROR, e.what());
+    }
 
     return 0;
 }
