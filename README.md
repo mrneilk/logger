@@ -50,4 +50,12 @@ In many industries (like finance or healthcare), logging is a legal requirement.
 
 ---
 
+---
+
+### 7. Future Scope and Work
+
+Essentials of secutity logging and how to implement at a kernel level in linux system. - WIP
+
+---
+
 *This project demonstrates these concepts through a simple application implementation.*
