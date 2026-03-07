@@ -56,6 +56,8 @@ In many industries (like finance or healthcare), logging is a legal requirement.
 
 Essentials of secutity logging and how to implement at a kernel level in linux system. - WIP
 
+Understand the concept of Relay, Originator and collector - This is a basic syslog analogy. There should be other logging guidlines, specifications or norms - To be understood
+
 ---
 
 *This project demonstrates these concepts through a simple application implementation.*
