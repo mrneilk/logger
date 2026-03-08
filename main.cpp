@@ -39,6 +39,7 @@ int main() {
     Logger::Log(INFO, "Application started successfully.");
     
     int diskSpace = 25; // percent
+    // The above int can be changed manually to get new test cases
     if (diskSpace < 20) {
         Logger::Log(WARNING, "Low disk space detected: 15%.");
     }
