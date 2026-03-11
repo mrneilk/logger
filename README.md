@@ -41,6 +41,7 @@ In many industries (like finance or healthcare), logging is a legal requirement.
 ### 5. Code Flow
 ---
 The flow chart illustrates the basic flow on the c++ program.
+
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/a07e0923-2489-4d74-974b-8200188b6868" />
 
 ---
