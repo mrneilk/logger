@@ -60,6 +60,8 @@ Essentials of secutity logging and how to implement at a kernel level in linux s
 
 Understand the concept of Relay, Originator and collector - This is a basic syslog analogy. There should be other logging guidlines, specifications or norms - To be understood
 
+works like a samll database stored in a restricted location, needs refresh and should be removed/delete to enforce security - This statement needs facts to be backed up.
+
 ---
 
 *This project demonstrates these concepts through a simple application implementation.*
