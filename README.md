@@ -62,6 +62,7 @@ Understand the concept of Relay, Originator and collector - This is a basic sysl
 
 works like a samll database stored in a restricted location, needs refresh and should be removed/delete to enforce security - This statement needs facts to be backed up.
 
+
 ---
 
 *This project demonstrates these concepts through a simple application implementation.*
