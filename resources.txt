@@ -7,3 +7,7 @@ check in for the day
 The code shows errors while compiling in VS Code same as the loadbalancer project code
 Need to check the compiler files and other target files to remove the error
 Debugging is not happening
+
+17th March 2026 - 
+
+This remain a work in progress, CHeck for Other Code examples and how logging is embedded into core of computer science
