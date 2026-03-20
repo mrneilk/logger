@@ -10,4 +10,4 @@ Debugging is not happening
 
 17th March 2026 - 
 
-This remain a work in progress, CHeck for Other Code examples and how logging is embedded into core of computer science
+This remain a work in progress, Check for other code examples and how logging is embedded into core of computer science
