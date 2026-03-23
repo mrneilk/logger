@@ -37,6 +37,7 @@ private:
         }
     }
 
+//Function to set the database status (online/offline)
 public:
     void setDatabaseStatus(bool online) { isDatabaseOnline = online; }
 
@@ -53,6 +54,7 @@ public:
         }
     }
 };
+
 
 std::string getCurrentTimestamp() {
     auto now = std::chrono::system_clock::now();
