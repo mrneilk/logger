@@ -1,3 +1,8 @@
+// Database Log Simulation in C++
+// This program simulates a database logging system with failover capabilities.
+// It demonstrates successful logging, performance monitoring, and failover handling when the database is offline.
+
+//Header files
 #include <iostream>
 #include <vector>
 #include <string>
@@ -5,8 +10,10 @@
 #include <iomanip>
 #include <fstream>
 
+//enum for log levels
 enum class LogLevel { DEBUG, INFO, WARN, ERROR };
 
+// Struct to represent a log entry
 struct LogEntry {
     std::string timestamp;
     LogLevel level;
@@ -14,6 +21,7 @@ struct LogEntry {
     std::string message;
 };
 
+// Class to simulate database logging with failover capabilities
 class DatabaseSimulator {
 private:
     std::vector<LogEntry> primaryStorage;
@@ -54,6 +62,7 @@ std::string getCurrentTimestamp() {
     return ss.str();
 }
 
+// Main function to demonstrate the database log simulation
 int main() {
     DatabaseSimulator db;
 
