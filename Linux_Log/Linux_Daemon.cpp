@@ -1,3 +1,17 @@
+// How to test and "kill" your daemon
+// Since the daemon has no window, you have to manage it through the command line:
+
+// Compile and Run: g++ daemon_example.cpp -o my_daemon && ./my_daemon
+// (Notice how it returns to the prompt immediately? It’s running in the background now.)
+
+// Verify it’s running:
+// ps aux | grep my_daemon
+
+// Check the logs it's creating:
+// tail -f /var/log/syslog | grep MyDaemonService
+
+// Stop the daemon:
+// sudo pkill my_daemon
 #include <iostream>
 #include <syslog.h>
 #include <unistd.h>
