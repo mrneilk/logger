@@ -52,14 +52,4 @@ The flow chart illustrates the basic flow on the c++ program.
 
 ---
 
----
-
-### 7. Future Scope and Work
-
-works like a samll database stored in a restricted location, needs refresh and should be removed/delete to enforce security - This statement needs facts to be backed up.
-
-Above topics to be worked upon
-
----
-
 *This project demonstrates these concepts through a simple application implementation.*
