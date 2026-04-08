@@ -1,3 +1,6 @@
+// This code implemented here provides a overlay of how real time logging works
+// This is AI generated using Google Gemini 
+// The variables in main function can be changed for testing of this code
 #include <iostream>
 #include <string>
 #include <ctime>
