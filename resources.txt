@@ -11,3 +11,6 @@ Debugging is not happening
 17th March 2026 - 
 
 This remain a work in progress, Check for other code examples and how logging is embedded into core of computer science
+
+12 April 2026:
+Finalising this repository is in progress
